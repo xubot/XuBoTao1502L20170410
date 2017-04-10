@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="MyView">
+        <attr name="color_start" format="color"/>
+        <attr name="color_end" format="color"/>
+        <attr name="circleDimensionRate" format="float"/>
+        <attr name="triangleDimensionRate" format="float"/>
+    </declare-styleable>
+</resources>
